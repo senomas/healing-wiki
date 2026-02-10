@@ -3,7 +3,7 @@ id: 53a7359f-b0a5-4d03-8464-51027f7b4c56
 created: 2026-02-05T13:51:37+07:00
 updated: 2026-02-10T18:16:33+07:00
 priority: 10
-visibility: private
+visibility: inherited
 ---
 # Gesing Wonderland
 

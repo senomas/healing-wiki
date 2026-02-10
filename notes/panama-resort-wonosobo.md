@@ -3,7 +3,7 @@ id: 312627c7-6620-4e75-957e-f03f8faf7bab
 created: 2026-02-05T14:17:18+07:00
 updated: 2026-02-10T18:16:49+07:00
 priority: 10
-visibility: private
+visibility: inherited
 ---
 # Panama Resort Wonosobo
 
