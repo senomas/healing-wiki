@@ -9,7 +9,7 @@ visibility: public
 
 [TikTok · Bohemian Jogja Villas](https://vt.tiktok.com/ZSaWVkrCL/)
 
-![](/attachments/a77189ce-f7ae-43e6-95eb-5747dc2221bf/FGaGiJFuwypBvQ9IJhzJ.jpg)
+![](/attachments/8fdc9f47-9437-4326-840e-dd7a209d08d1/FGaGiJFuwypBvQ9IJhzJ.jpg)
 
 https://maps.app.goo.gl/tAP3MXsT3N9hj8RK7
 
