@@ -12,6 +12,6 @@ folder: food
 
   13.9K likes, 244 comments. “Bakmi Jowo legend di Solo yang umurnya sudah sekitar 1 Dekade ✨ Banyak orang-orang dari solo maupun luar solo sering jajan disini, tempatnya family friendly Pelayanannya termasuk cepet dan ramah Harga menu disini mulai dari 20rban aja 📍Gmaps : Bakmi Jowo Koeno Mbah Mangoen @mbahmangoen.soc”
 
-![](/attachments/f0f6ffdb-7559-4aca-a591-eb92ae58d1fe/tWil8e_bhKNI76X8aIIa.jpg)
+![](/attachments/5891f9bc-a589-41c9-b6d9-a7fe774a93fd/tWil8e_bhKNI76X8aIIa.jpg)
 
 #food 

@@ -35,4 +35,4 @@ https://maps.app.goo.gl/7UPFior2s6LpetUy5
 
   110 likes, 2 comments. “Hidden Gem Staycation di Tengah Kebun Teh, View Telaga Menjer & Gunung Sindoro 🏕️🌲 Nginep di kabin segitiga estetik dengan view kebun teh, Telaga Menjer, dan Gunung Sindoro. Ada jacuzzi air hangat, free ATV 45 menit, sarapan termasuk, dan resto buat nongkrong. Tempatnya super Instagramable!”
 
-  ![](/attachments/f0f6ffdb-7559-4aca-a591-eb92ae58d1fe/ErQemB1Z3I8NwaU4f6__.jpg)
+  ![](/attachments/312627c7-6620-4e75-957e-f03f8faf7bab/ErQemB1Z3I8NwaU4f6__.jpg)

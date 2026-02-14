@@ -14,6 +14,6 @@ Jl. Bulevar Sekarpetak Bangunjiwo Kasihan Bantul DIY
 
 WhatsApp: 081231402025
 
-![](/attachments/bb374ae9-4782-4945-b1e6-cc78d717a0e7/QFKpbb8m7wnEuvV9tTDb.jpg)
+![](/attachments/2e033fd4-1062-4207-a610-603a7e04b894/QFKpbb8m7wnEuvV9tTDb.jpg)
 
 #staycation 

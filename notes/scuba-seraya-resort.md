@@ -12,6 +12,6 @@ visibility: inherited
 
   593 likes, 4 comments. “The sea begins at your doorstep 🫧”
 
-  ![](/attachments/f0f6ffdb-7559-4aca-a591-eb92ae58d1fe/h7w-c3rJwGgiWmUCaiKM.jpg)
+  ![](/attachments/3c6db3d3-89cc-4445-b1ef-5ea239ae8bbe/h7w-c3rJwGgiWmUCaiKM.jpg)
 
 #staycation 

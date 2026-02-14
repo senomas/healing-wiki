@@ -10,6 +10,6 @@ visibility: inherited
 
 [TikTok · Villa Pintu Langit](https://vt.tiktok.com/ZSmRqPpkB/)
 
-![](/attachments/bb374ae9-4782-4945-b1e6-cc78d717a0e7/tiRHfenw4UyWApuNze1z.jpg)
+![](/attachments/ceb2a7fa-12d8-4a57-bd9a-0a85a21b76f9/tiRHfenw4UyWApuNze1z.jpg)
 
 #staycation #dieng
