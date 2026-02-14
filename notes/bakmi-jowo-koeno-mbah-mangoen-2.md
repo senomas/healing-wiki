@@ -1,11 +1,10 @@
 ---
 id: c3ef73af-7b98-41d8-8259-d8b6166c1f9a
 created: 2026-02-14T10:07:38+07:00
-updated: 2026-02-14T10:07:38+07:00
+updated: 2026-02-14T10:07:48+07:00
 priority: 10
 visibility: inherited
 ---
-
 # Bakmi Jowo Koeno Mbah Mangoen 2
 
 [TikTok · Bakmi Jowo Koeno Mbah Mangoen](https://vt.tiktok.com/ZSmj8khrb/)  #signal
