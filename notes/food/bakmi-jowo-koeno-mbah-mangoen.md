@@ -1,12 +1,11 @@
 ---
 id: 5891f9bc-a589-41c9-b6d9-a7fe774a93fd
 created: 2026-02-14T07:43:27+07:00
-updated: 2026-02-14T07:43:27+07:00
+updated: 2026-02-14T07:43:45+07:00
 priority: 10
 visibility: inherited
 folder: food
 ---
-
 # Bakmi Jowo Koeno Mbah Mangoen
 
 [TikTok · Kuliner Solo - Jogja](https://vt.tiktok.com/ZSmj8khrb/)
