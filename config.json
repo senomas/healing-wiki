@@ -1,0 +1,7 @@
+{
+  "edit-command-trigger": "!",
+  "edit-command-todo": "!",
+  "edit-command-today": "d",
+  "edit-command-time": "t",
+  "edit-command-date-base": "d"
+}
