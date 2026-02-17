@@ -1,7 +1,7 @@
 ---
 id: 9a3c14a6-60ef-46fc-bc9e-c5676a897087
 created: 2026-02-17T16:56:24+07:00
-updated: 2026-02-17T16:56:24+07:00
+updated: 2026-02-17T16:56:33+07:00
 priority: 10
 visibility: inherited
 folder: food
@@ -15,6 +15,6 @@ folder: food
 
   ![](/attachments/9a3c14a6-60ef-46fc-bc9e-c5676a897087/8oNior-x05LFnn_clu_y.jpg)
 
-[[Yogyakarta]]
+[[@seno/place/yogyakarta.md]]
 
 #cafe 
