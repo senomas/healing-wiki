@@ -1,7 +1,7 @@
 ---
 id: 2b3d1095-d20d-454b-9f03-3e983b406e90
 created: 2026-02-17T09:56:46+07:00
-updated: 2026-02-17T09:58:03+07:00
+updated: 2026-02-17T10:25:40+07:00
 priority: 10
 visibility: inherited
 folder: food
@@ -14,4 +14,4 @@ folder: food
 
   ![](/attachments/2b3d1095-d20d-454b-9f03-3e983b406e90/yL_ry9owHk7EAVUhFDtE.jpg)
 
-[[healing/solo.md]] #food #cafe 
+[[@seno/place/solo.md]] #food #cafe 
