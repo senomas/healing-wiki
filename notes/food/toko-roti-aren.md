@@ -1,12 +1,11 @@
 ---
 id: 2b3d1095-d20d-454b-9f03-3e983b406e90
 created: 2026-02-17T09:56:46+07:00
-updated: 2026-02-17T09:56:46+07:00
+updated: 2026-02-17T09:57:52+07:00
 priority: 10
 visibility: inherited
 folder: food
 ---
-
 # Toko Roti Aren
 
 [TikTok · Toko Roti Aren](https://vt.tiktok.com/ZSmBDg2pJ/)  #signal
@@ -15,4 +14,4 @@ folder: food
 
   ![](/attachments/2b3d1095-d20d-454b-9f03-3e983b406e90/yL_ry9owHk7EAVUhFDtE.jpg)
 
-#food #cafe 
+[[healing/solo.md]] #food #cafe 
