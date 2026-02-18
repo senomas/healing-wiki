@@ -1,7 +1,7 @@
 ---
 id: 3f1f3165-c06d-49fd-b11f-01db07ad3b0c
 created: 2026-02-18T15:18:11+07:00
-updated: 2026-02-18T15:18:11+07:00
+updated: 2026-02-18T15:18:20+07:00
 priority: 10
 visibility: inherited
 folder: food
@@ -15,6 +15,6 @@ folder: food
 
   ![](/attachments/3f1f3165-c06d-49fd-b11f-01db07ad3b0c/jJJYelfmp1O7INnGwoct.jpg)
 
-[[yogyakarta]]
+[[@seno/place/yogyakarta.md]]
 
 #food
