@@ -1,7 +1,7 @@
 ---
 id: b342a439-70f9-4b48-b299-dd8b883092af
 created: 2026-03-15T06:52:32+07:00
-updated: 2026-03-15T06:52:32+07:00
+updated: 2026-03-15T06:52:39+07:00
 priority: 10
 visibility: inherited
 folder: food
@@ -15,6 +15,6 @@ folder: food
 
   ![](/attachments/b342a439-70f9-4b48-b299-dd8b883092af/X40vAUlg7ZhBto6cr6TM.jpg)
 
-[[solo]]
+[[@seno/place/solo.md]]
 
 #food #padang
