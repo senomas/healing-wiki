@@ -1,7 +1,7 @@
 ---
 id: 841e4416-7022-428f-97a4-c2ea536bf356
 created: 2026-03-15T06:54:03+07:00
-updated: 2026-03-15T06:54:03+07:00
+updated: 2026-03-15T06:54:30+07:00
 priority: 10
 visibility: inherited
 folder: food
@@ -15,6 +15,6 @@ folder: food
 
   ![](/attachments/841e4416-7022-428f-97a4-c2ea536bf356/sMFFUz-Ye9KPC3scM_PV.jpg)
 
-[[Jogja]]
+[[@seno/place/yogyakarta.md]]
 
 #food 
