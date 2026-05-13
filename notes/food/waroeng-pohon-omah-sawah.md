@@ -1,7 +1,7 @@
 ---
 id: da874bb3-165c-4f8d-a57e-1415e3d336bf
 created: 2026-02-19T08:09:00+07:00
-updated: 2026-02-21T05:55:31+07:00
+updated: 2026-05-13T14:02:56+07:00
 priority: 10
 visibility: inherited
 folder: food
@@ -14,4 +14,4 @@ folder: food
 
   ![](/attachments/da874bb3-165c-4f8d-a57e-1415e3d336bf/b8uXNGrufn41ffmzVXxM.jpg)
 
-[[@seno/place/yogyakarta.md]] #food 
+[[place/yogyakarta.md]] #food 

@@ -1,7 +1,7 @@
 ---
 id: ebb87af0-191c-45c5-855a-6f8c3250b885
 created: 2026-02-19T12:30:48+07:00
-updated: 2026-02-19T12:30:48+07:00
+updated: 2026-05-13T14:02:56+07:00
 priority: 10
 visibility: inherited
 ---
@@ -14,6 +14,6 @@ visibility: inherited
 
   ![](/attachments/ebb87af0-191c-45c5-855a-6f8c3250b885/WhC6VX3cZBz4B3X-MadJ.jpg)
 
-[[@seno/place/yogyakarta.md]] 
+[[place/yogyakarta.md]] 
 
 #travel

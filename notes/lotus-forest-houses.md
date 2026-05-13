@@ -1,7 +1,7 @@
 ---
 id: c74d1710-0ec0-49f3-829a-0bce97f91a40
 created: 2026-02-19T07:35:57+07:00
-updated: 2026-02-19T07:36:38+07:00
+updated: 2026-05-13T14:02:56+07:00
 priority: 10
 visibility: inherited
 ---
@@ -13,4 +13,4 @@ visibility: inherited
 
   ![](/attachments/c74d1710-0ec0-49f3-829a-0bce97f91a40/pqujKC5nmfcHWu4wypv7.jpg)
 
-[[@seno/place/yogyakarta.md]] 
+[[place/yogyakarta.md]] 

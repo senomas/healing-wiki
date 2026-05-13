@@ -1,7 +1,7 @@
 ---
 id: 797c239b-d8b3-41d8-8b11-8952948df370
 created: 2026-02-23T07:50:13+07:00
-updated: 2026-02-23T07:50:13+07:00
+updated: 2026-05-13T14:02:56+07:00
 priority: 10
 visibility: inherited
 ---
@@ -12,4 +12,4 @@ visibility: inherited
 
   ![](/attachments/797c239b-d8b3-41d8-8b11-8952948df370/4JYizUznH4x6tY27gZAD.jpg)
 
-[[@seno/place/yogyakarta.md]] 
+[[place/yogyakarta.md]] 

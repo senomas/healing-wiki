@@ -1,7 +1,7 @@
 ---
 id: b246c9ac-7106-4f9a-b3bc-c0cef9e141be
 created: 2026-02-19T07:38:03+07:00
-updated: 2026-02-19T07:38:24+07:00
+updated: 2026-05-13T14:02:56+07:00
 priority: 10
 visibility: inherited
 folder: food
@@ -14,4 +14,4 @@ folder: food
 
   ![](/attachments/b246c9ac-7106-4f9a-b3bc-c0cef9e141be/rntrkMFnjAK0RQ9PJIxs.jpg)
 
-[[@seno/place/yogyakarta.md]] #food 
+[[place/yogyakarta.md]] #food 
