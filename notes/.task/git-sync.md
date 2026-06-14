@@ -1,15 +1,15 @@
 ---
 title: Git Sync
 type: script
-created: 2026-06-14T12:26:04+07:00
+created: 2026-06-14T12:36:13+07:00
 ---
 
 ## Sync started
 
-2026-06-14 12:26:04
+2026-06-14 12:36:13
 
 ```text
-auto-sync: start 2026-06-14T12:26:04+07:00
+auto-sync: start 2026-06-14T12:36:13+07:00
 
 $ git config --local credential.helper store --file=/data/healing.cred
 -> ok
@@ -31,7 +31,7 @@ https://github.com/senomas/healing-wiki.git
 
 
 $ git rev-parse --verify HEAD
-718c8a5a165688eba179d4a03613fef4ded39e15
+1d2528e7a6338d5a6b10f7f185ff3e5c4661fce1
 -> ok
 
 
@@ -41,26 +41,19 @@ origin
 
 
 $ git ls-remote --symref origin HEAD
-ref: refs/heads/master	HEAD
-dc0c03736e9937265c61b8b2cfce36571c7a0f36	HEAD
--> ok (master)
+fatal: unable to access 'https://github.com/senomas/healing-wiki.git/': Could not resolve host: github.com
+-> error: exit status 128
 
 
 $ git show-ref --verify refs/heads/master
 -> ok
 
-auto-sync: fetch master
-
-$ git fetch origin master
-From https://github.com/senomas/healing-wiki
- * branch            master     -> FETCH_HEAD
--> ok
-
+auto-sync: remote HEAD missing; skip fetch master
 
 $ git checkout master
 Already on 'master'
 M	notes/.task/git-sync.md
-Your branch is ahead of 'origin/master' by 83 commits.
+Your branch is ahead of 'origin/master' by 84 commits.
   (use "git push" to publish your local commits)
 -> ok
 
