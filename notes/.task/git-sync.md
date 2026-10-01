@@ -1,15 +1,15 @@
 ---
 title: Git Sync
 type: script
-created: 2026-10-01T23:59:58+07:00
+created: 2026-10-02T00:09:58+07:00
 ---
 
 ## Sync started
 
-2026-10-01 23:59:58
+2026-10-02 00:09:58
 
 ```text
-auto-sync: start 2026-10-01T23:59:58+07:00
+auto-sync: start 2026-10-02T00:09:58+07:00
 
 $ git config --local credential.helper store --file=/data/healing.cred
 -> ok
@@ -31,7 +31,7 @@ https://github.com/senomas/healing-wiki.git
 
 
 $ git rev-parse --verify HEAD
-93a6a7d63f29bee8ec42c4db1d6b7d736f4d46be
+9f0c6d7b9d090ccbcd4d6a9ed73827efddb05797
 -> ok
 
 
@@ -41,20 +41,26 @@ origin
 
 
 $ git ls-remote --symref origin HEAD
-fatal: unable to access 'https://github.com/senomas/healing-wiki.git/': GnuTLS recv error (-110): The TLS connection was non-properly terminated.
--> error: exit status 128
+ref: refs/heads/master	HEAD
+9f0c6d7b9d090ccbcd4d6a9ed73827efddb05797	HEAD
+-> ok (master)
 
 
 $ git show-ref --verify refs/heads/master
 -> ok
 
-auto-sync: remote HEAD missing; skip fetch master
+auto-sync: fetch master
+
+$ git fetch origin master
+From https://github.com/senomas/healing-wiki
+ * branch                master     -> FETCH_HEAD
+-> ok
+
 
 $ git checkout master
 Already on 'master'
 M	notes/.task/git-sync.md
-Your branch is ahead of 'origin/master' by 7620 commits.
-  (use "git push" to publish your local commits)
+Your branch is up to date with 'origin/master'.
 -> ok
 
 
