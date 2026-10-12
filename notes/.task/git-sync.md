@@ -1,15 +1,15 @@
 ---
 title: Git Sync
 type: script
-created: 2026-10-12T08:34:28+07:00
+created: 2026-10-12T08:44:25+07:00
 ---
 
 ## Sync started
 
-2026-10-12 08:34:28
+2026-10-12 08:44:25
 
 ```text
-auto-sync: start 2026-10-12T08:34:28+07:00
+auto-sync: start 2026-10-12T08:44:25+07:00
 
 $ git config --local credential.helper store --file=/data/healing.cred
 -> ok
@@ -31,7 +31,7 @@ https://github.com/senomas/healing-wiki.git
 
 
 $ git rev-parse --verify HEAD
-266d91fc28be7fc4ac6108ffb15d61d09abdb930
+94ca530a79905c719c5518478a1ed20f9a0a9931
 -> ok
 
 
@@ -52,15 +52,14 @@ $ git show-ref --verify refs/heads/master
 auto-sync: fetch master
 
 $ git fetch origin master
-From https://github.com/senomas/healing-wiki
- * branch                master     -> FETCH_HEAD
--> ok
+fatal: unable to access 'https://github.com/senomas/healing-wiki.git/': Recv failure: Connection timed out
+-> error: exit status 128
 
 
 $ git checkout master
 Already on 'master'
 M	notes/.task/git-sync.md
-Your branch is ahead of 'origin/master' by 1429 commits.
+Your branch is ahead of 'origin/master' by 1430 commits.
   (use "git push" to publish your local commits)
 -> ok
 
